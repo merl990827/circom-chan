@@ -65,6 +65,7 @@ More information about the notions of weak and strong safety in circom chan circ
 [ico-website]: https://img.shields.io/website?up_color=blue&up_message=monero-chan&url=https%3A%2F%2Fmonero-chan.org
 [ico-twitter]: https://img.shields.io/badge/@MoneroChanSOL-1DA1F2.svg?style=flat-square&logo=x&label=Twitter
 
-[link-website]: https://monero-chan.org/
-[link-twitter]: https://twitter.com/MoneroChanSOL
+[link-website]: https://monachan.org/
+[link-twitter]: https://twitter.com/MonaChanSOL
+
 
